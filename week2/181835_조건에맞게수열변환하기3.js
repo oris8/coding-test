@@ -1,3 +1,4 @@
+//https://school.programmers.co.kr/learn/courses/30/lessons/181835
 // 문제 설명
 // 정수 배열 arr와 자연수 k가 주어집니다.
 
