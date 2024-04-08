@@ -11,6 +11,7 @@
 // 1 ≤ code ≤ cipher의 길이
 // cipher는 소문자와 공백으로만 구성되어 있습니다.
 // 공백도 하나의 문자로 취급합니다.
+
 // 입출력 예
 // cipher	code	result
 // "dfjardstddetckdaccccdegk"	4	"attack"
